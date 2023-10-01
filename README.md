@@ -16,6 +16,7 @@ You can set your API key in the `NewsManager.swift` file as follows:
 ```swift
 let apiKey = "your_api_key_here"
 let baseURL = "https://api.collectapi.com/news/getNews"
+```
 
 ## Screenshot
 
